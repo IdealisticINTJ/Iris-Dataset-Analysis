@@ -38,7 +38,9 @@ The steps in the construction of a supervised machine learning program are as st
 
 ## Conclusion
 Through the exploratory data analysis performed in this dataset, many intrigiung inferences could be drawn. 
+
 **Takeaways**
+
  Which predictor(s) can effectively help with the predictions? Which of the petal/sepal measurements are more useful to look at?
 A) It is seen that Petal measurements have highly positive correlation, while the sepal one is uncorrelated. 
  It is also worth noting that the petal features have relatively high correlation with sepal_length, but not with sepal_width.
