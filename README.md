@@ -1,2 +1,2 @@
-# Iris-Dataset-Analysis
-Classification of three different Iris species (setosa, virginica and versicolor) using the Fisher's Iris data set 
+# Iris Dataset Analysis
+**An exploratory data analysis using statistics and data visualisation, and a very basic illustration of how this dataset can be used in machine learning.**
