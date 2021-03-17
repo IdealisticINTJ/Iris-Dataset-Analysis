@@ -47,4 +47,4 @@ A) It is seen that Petal measurements have highly positive correlation, while th
  It is also worth noting that the petal features have relatively high correlation with sepal_length, but not with sepal_width.
  Therefore, petal measurements can separate species better than the sepal ones.
  
- *Furthermore, all the 3 models achieved a test accuracy of over 95% (97% approx).*
+ *Furthermore, all the 3 models achieved a test accuracy of over 95% (~97%).*
