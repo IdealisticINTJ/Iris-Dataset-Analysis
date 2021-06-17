@@ -37,7 +37,7 @@ The steps in the construction of a supervised machine learning program are as st
 
 
 ## Conclusion
-Through the exploratory data analysis performed in this dataset, many intrigiung inferences could be drawn. 
+Through the exploratory data analysis performed on this dataset, many intrigiung inferences could be drawn. 
 
 **Takeaways**
 
